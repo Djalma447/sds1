@@ -18,7 +18,7 @@ const Home = () => (
                     <button className="home-btn">
                     QUERO SABER QUAIS SÃO
                     </button>
-                    <div className="home-btn=icon">
+                    <div className="home-btn-icon">
                         <ArrowIcon />
                     </div>
                 </div>
