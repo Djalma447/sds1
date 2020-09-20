@@ -7,7 +7,7 @@ import './styles.css';
 const Home = () => (
     <div className="home-container">
         <div className="home-text">
-            <h1 className="home-text-tittle">
+            <h1 className="home-text-title">
             Quais jogos a galera gosta mais?
             </h1>
             <h3 className="home-text-subtitle">
